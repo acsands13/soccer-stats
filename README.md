@@ -4,7 +4,7 @@ scored? This project contains the code used to scrape and analyze data from
 the FIFA World Cup and the English Premier League to answer that question.
 
 A write-up of this project can be found here:
-[Cliffhanger Endings in Soccer](https://alexsands.com/cliffhanger-endings-in-soccer/).
+[Nail-Biter Endings in Soccer](https://alexsands.com/posts/nailbiter-endings-in-soccer/).
 
 The data used in the analysis can be found in
 [`/data`](https://github.com/acsands13/soccer-stats/tree/master/data).
